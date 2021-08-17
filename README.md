@@ -12,4 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/82980738/129794597-ff6d6fc0-31aa-4331-95d3-73db6bb8b054.png" alt="Frasca" width="300px">
 
-
+| devilidades | fortalezas |
+| ------------- | ------------- |
+|temor          | equilibrio  |
+| mente         | respiracion |
