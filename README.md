@@ -10,8 +10,6 @@
 <img src="https://user-images.githubusercontent.com/82980738/129794461-e07f5628-651b-433f-ae04-7e4122756cb9.png
 " alt="Frasca" width="300px">
 
-<img src="https://user-images.githubusercontent.com/82980738/129794597-ff6d6fc0-31aa-4331-95d3-73db6bb8b054.png
-
-" alt="Frasca" width="300px">
+<img src="https://user-images.githubusercontent.com/82980738/129794597-ff6d6fc0-31aa-4331-95d3-73db6bb8b054.png" alt="Frasca" width="300px">
 
 
